@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TLuContact2</string>
+    <string name="danhBaDonVi">Danh Bạ Đơn Vị</string>
+    <string name="danhBaCanBo">Danh Bạ CBNV</string>
+    <string name="danhBaSinhVien">Danh Bạ Sinh Viên</string>
+    <string name="title_DanhSachDonVi">Danh Sách Đơn Vị</string>
+    <string name="unit_list">units_list</string>
+    <string name="timKiemDonVi"><![CDATA[Tìm kiếm & đơn vị]]></string>
+    <string name="danhSachSinhVien">Danh Sách Sinh Viên</string>
+    <string name="danhSachCanBo">Danh Sách Cán Bộ</string>
+    <string name="maSinhVien">MSV: </string>
+    <string name="hoTen">Họ Tên: </string>
+    <string name="soDT">Số Điện Thoại: </string>
+    <string name="email">Email: </string>
+    <string name="diaChi">Địa Chỉ: </string>
+    <string name="lop">Lớp: </string>
+    <string name="thongTinSV">Thông Tin Sinh Viên</string>
+    <string name="thongTinCBNV">Thông Tin CBNV</string>
+    <string name="thongTinDonVi">Thông Tin Đơn Vị</string>
+    <string name="item_student">item_student\n</string>
+    <string name="student_list">student_list</string>
+    <string name="staft_list">staft_list</string>
+</resources>
